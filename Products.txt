@@ -1,0 +1,20 @@
+[
+  {
+    "tittle": "Jinx Card",
+    "price": 250,
+    "thumbnail": "https://static.wikia.nocookie.net/leagueoflegendsoficial/images/5/51/Jinx_loading_screen.jpg/revision/latest/scale-to-width-down/250?cb=20161008025416&path-prefix=es",
+    "id": 1
+  },
+  {
+    "tittle": "Ekko card",
+    "price": 300,
+    "thumbnail": "https://static.wikia.nocookie.net/leagueoflegendsoficial/images/7/7f/Ekko_loading_screen.jpg/revision/latest/scale-to-width-down/250?cb=20160914225404&path-prefix=es",
+    "id": 2
+  },
+  {
+    "tittle": "Vi card",
+    "price": 300,
+    "thumbnail": "https://static.wikia.nocookie.net/leagueoflegendsoficial/images/9/94/Vi_loading_screen.jpg/revision/latest/scale-to-width-down/250?cb=20170326191718&path-prefix=es",
+    "id": 3
+  }
+]
