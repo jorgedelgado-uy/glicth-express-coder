@@ -14,6 +14,10 @@ const server = app.listen(8080, ()=>{
 
 server.on("error", error => console.log(`Error en el servidor ${error}`));
 
+app.get('/', (req, res) => {
+    res.send('<h1> Server with ExpressJs</h1>')
+})
+
 app.get('/products', async (req, res) => {
         let body = await cont.getAll();
         res.send(body);    
